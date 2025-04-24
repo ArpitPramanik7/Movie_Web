@@ -1,2 +1,7 @@
-# Movie_Web
-Web Application Project, made using Spring Boot and React.js
+# Movie Web Project
+
+A web application for movies.
+
+## Structure
+- frontend/
+- backend/
